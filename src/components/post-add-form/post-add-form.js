@@ -1,9 +1,9 @@
 import React from 'react';
 import './post-add-form.css';
 
-const PostAddForm = () => {
+const PostAddForm = ({onAdd}) => {
   return (
-      <form className="bottom-panel d-flex">
+      <div className="bottom-panel d-flex">
         <input
         type = "text"
         placeholder = "Текст заметки..."
@@ -12,10 +12,11 @@ const PostAddForm = () => {
 
         <button 
           type="submit"
-          className="btn btn-outline-dark">
+          className="btn btn-outline-dark"
+          onClick={() => onAdd('hello')}>
             Добавить</button>
         
-      </form>
+      </div>
   )
 }
 
