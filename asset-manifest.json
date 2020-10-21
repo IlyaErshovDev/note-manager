@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/note-manager/static/css/main.360edcaa.chunk.css",
+    "main.js": "/note-manager/static/js/main.7951b812.chunk.js",
+    "main.js.map": "/note-manager/static/js/main.7951b812.chunk.js.map",
+    "runtime-main.js": "/note-manager/static/js/runtime-main.45c67289.js",
+    "runtime-main.js.map": "/note-manager/static/js/runtime-main.45c67289.js.map",
+    "static/js/2.96513bf6.chunk.js": "/note-manager/static/js/2.96513bf6.chunk.js",
+    "static/js/2.96513bf6.chunk.js.map": "/note-manager/static/js/2.96513bf6.chunk.js.map",
+    "index.html": "/note-manager/index.html",
+    "precache-manifest.b57d91f119c032abdc4646f96de35673.js": "/note-manager/precache-manifest.b57d91f119c032abdc4646f96de35673.js",
+    "service-worker.js": "/note-manager/service-worker.js",
+    "static/css/main.360edcaa.chunk.css.map": "/note-manager/static/css/main.360edcaa.chunk.css.map",
+    "static/js/2.96513bf6.chunk.js.LICENSE.txt": "/note-manager/static/js/2.96513bf6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45c67289.js",
+    "static/js/2.96513bf6.chunk.js",
+    "static/css/main.360edcaa.chunk.css",
+    "static/js/main.7951b812.chunk.js"
+  ]
+}
